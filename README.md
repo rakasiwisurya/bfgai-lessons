@@ -1,1 +1,1 @@
-# open-weight-to-summarize-text
+Belajar Fundamental Generative AI
